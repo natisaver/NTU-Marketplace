@@ -155,3 +155,8 @@ class MyUser(HttpUser):
 
 > ![image](https://user-images.githubusercontent.com/64686163/230887659-94bf6319-fa2c-4657-9c48-5c5851e292d7.png)
 
+
+
+###Bugs
+1. Cant go to seller's profile from detailed listing page if not loggied in
+2. Cant filter bought listings in offers page
