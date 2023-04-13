@@ -157,6 +157,6 @@ class MyUser(HttpUser):
 
 
 
-###Bugs
+### Bugs
 1. Cant go to seller's profile from detailed listing page if not loggied in
 2. Cant filter bought listings in offers page
